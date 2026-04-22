@@ -1,0 +1,51 @@
+Event_Name,Pathogen_Name,Start_Year,End_Year,Duration_Years,Origin_Region,Geographic_Spread,Continents_Affected,Estimated_Cases,Estimated_Deaths,Case_Fatality_Rate_Pct,Primary_Transmission,Containment_Method,Economic_Impact_Billion_USD,Medical_Breakthrough,Era,WHO_Classification,Mortality_Scale,Spread_Score,Century,Pathogen_Type_Unknown,Pathogen_Type_Virus
+Black Death,Yersinia pestis,1347,1353,6,Central Asia,Global,6,0.09999998964999988,75000000,37.5,Vector/Contact,Natural Decline,500,True,Medieval,Pandemic,Catastrophic,22.5,14th Century,False,False
+Plague of Justinian,Yersinia pestis,541,549,8,Egypt,Continental,4,0.02499998878749987,25000000,50.0,Vector,Natural Decline,300,False,Ancient,Pandemic,Catastrophic,20.0,6th Century,False,False
+Antonine Plague,Smallpox/Measles,165,180,15,Near East,Continental,3,0.004999988557499869,5000000,50.0,Contact,Natural Decline,200,False,Ancient,Pandemic,High,15.0,2th Century,False,True
+Second Pandemic Plague,Yersinia pestis,1361,1363,2,Europe,Continental,2,0.014999988672499869,12000000,40.0,Vector,Natural Decline,100,False,Medieval,Pandemic,Catastrophic,8.0,14th Century,False,False
+Sweating Sickness,Unknown,1485,1551,66,England,Regional,1,0.00014998850172486778,50000,16.7,Unknown,Natural Decline,10,False,Medieval,Epidemic,Low,1.67,15th Century,True,False
+Smallpox in Americas,Variola major,1519,1600,81,Europe,Continental,2,0.02999998884499987,56000000,93.3,Contact,,100,False,Early_Modern,Pandemic,Catastrophic,10.0,16th Century,False,True
+Great Plague of London,Yersinia pestis,1665,1666,1,England,Regional,1,4.864150055937726e-05,68596,70.5,Vector,Quarantine,50,False,Early_Modern,Epidemic,Moderate,5.0,17th Century,False,False
+Great Plague of Marseille,Yersinia pestis,1720,1722,2,France,Regional,1,5.9988500689867756e-05,50000,41.7,Vector,Quarantine,30,False,Early_Modern,Epidemic,Low,4.17,18th Century,False,False
+First Cholera Pandemic,Vibrio cholerae,1817,1824,7,India,Continental,3,0.0007499885086248679,500000,33.3,Waterborne,Quarantine,20,False,Early_Modern,Pandemic,Moderate,9.989999999999998,19th Century,False,False
+Second Cholera Pandemic,Vibrio cholerae,1829,1837,8,India,Global,5,0.0012499885143748678,900000,36.0,Waterborne,Quarantine,50,False,Early_Modern,Pandemic,Moderate,18.0,19th Century,False,False
+Third Cholera Pandemic,Vibrio cholerae,1839,1856,17,India,Global,6,0.001499988517249868,1000000,33.3,Waterborne,Sanitation,80,False,Early_Modern,Pandemic,Moderate,19.98,19th Century,False,False
+Fourth Cholera Pandemic,Vibrio cholerae,1863,1875,12,India,Global,6,0.001749988520124868,1200000,34.3,Waterborne,Sanitation,90,False,Industrial,Pandemic,High,20.58,19th Century,False,False
+Fifth Cholera Pandemic,Vibrio cholerae,1881,1896,15,India,Global,6,0.001999988522999868,1400000,35.0,Waterborne,Sanitation,100,False,Industrial,Pandemic,High,21.0,19th Century,False,False
+Sixth Cholera Pandemic,Vibrio cholerae,1899,1923,24,India,Global,6,0.002499988528749868,1800000,36.0,Waterborne,Sanitation,150,False,Industrial,Pandemic,High,21.6,19th Century,False,False
+Russian Flu,H2N2 Influenza,1889,1890,1,Russia,Global,6,0.4999999942499999,1000000,0.1,Airborne,Natural Decline,200,False,Industrial,Pandemic,Moderate,0.06,19th Century,False,True
+Yellow Fever Epidemic,Yellow Fever Virus,1793,1798,5,USA,Regional,1,4.988500057367751e-06,5000,50.0,Vector,Quarantine,5,False,Industrial,Epidemic,Low,5.0,18th Century,False,True
+Typhus Epidemic WWI,Rickettsia prowazekii,1914,1918,4,Eastern Europe,Continental,3,0.014999988672499869,3000000,10.0,Vector,Delousing,50,False,Industrial,Epidemic,High,3.0,20th Century,False,False
+Spanish Flu,H1N1 Influenza,1918,1920,2,USA,Global,6,0.2499999913749999,50000000,10.0,Airborne,Quarantine,2500,True,Industrial,Pandemic,Catastrophic,6.0,20th Century,False,True
+Encephalitis Lethargica,Unknown,1915,1926,11,Europe,Continental,3,0.0004999885057498678,500000,50.0,Unknown,Supportive Care,30,False,Industrial,Epidemic,Moderate,15.0,20th Century,True,False
+Asian Flu,H2N2 Influenza,1957,1958,1,China,Global,6,0.9999999999999999,1100000,0.055,Airborne,Vaccine,5000,True,Modern,Pandemic,High,0.033,20th Century,False,True
+Hong Kong Flu,H3N2 Influenza,1968,1970,2,China,Global,6,0.7499999971249999,1000000,0.067,Airborne,Vaccine,4000,True,Modern,Pandemic,Moderate,0.0402,20th Century,False,True
+Smallpox Eradication,Variola major,1967,1980,13,Global,Global,7,0.007499988586249869,2000000,13.3,Contact,Vaccine,100,True,Modern,Pandemic,High,9.31,20th Century,False,True
+Legionnaires Disease,Legionella,1976,1977,1,USA,Local,1,9.900000113850001e-08,34,15.4,Airborne,Antibiotics,1,True,Modern,Outbreak,Minimal,1.54,20th Century,False,False
+HIV/AIDS,HIV,1981,2023,42,DRC,Global,7,0.04199998898299987,40000000,47.6,Sexual/Blood,Antiretroviral,2400,True,Modern,Pandemic,Catastrophic,33.32,20th Century,False,True
+Seventh Cholera Pandemic,Vibrio cholerae El Tor,1961,2023,62,Indonesia,Global,6,0.001399988516099868,95000,3.4,Waterborne,ORS/Vaccine,500,True,Modern,Pandemic,Moderate,2.04,20th Century,False,False
+Dengue Fever,Dengue Virus,1970,2023,53,Tropical Regions,Global,5,0.2499999913749999,25000,0.005,Vector,Supportive Care,900,True,Modern,Endemic,Low,0.0025,20th Century,False,True
+Polio (Pre-Eradication),Poliovirus,1916,2023,107,USA,Global,7,0.0003249885037373678,10000,1.5,Fecal-Oral,Vaccine,200,True,Modern,Pandemic,Low,1.05,20th Century,False,True
+Lassa Fever,Lassa Virus,1969,2023,54,Nigeria,Regional,1,0.00014998850172486778,5000,1.7,Contact,Supportive Care,5,True,Modern,Epidemic,Low,0.1699999999999999,20th Century,False,True
+West Nile Virus,West Nile Virus,1999,2023,24,USA/Africa,Continental,4,0.003999988545999869,2000,0.025,Vector,Supportive Care,50,True,Modern,Epidemic,Low,0.01,20th Century,False,True
+SARS,SARS-CoV-1,2002,2004,2,China,Continental,5,4.037500046431251e-06,774,9.56,Airborne/Droplet,Quarantine,30,True,Contemporary,Epidemic,Minimal,4.78,21st Century,False,True
+H5N1 Bird Flu,H5N1 Influenza,1997,2023,26,China,Regional,3,4.2250000485875005e-07,457,52.6,Contact,Antiviral,10,True,Contemporary,Epidemic,Minimal,15.0,20th Century,False,True
+2009 Swine Flu,H1N1 Influenza,2009,2010,1,Mexico,Global,6,0.3499999925249999,284000,0.04,Airborne,Vaccine,75,True,Contemporary,Pandemic,Moderate,0.024,21st Century,False,True
+MERS,MERS-CoV,2012,2023,11,Saudi Arabia,Regional,2,1.28850001481775e-06,935,35.96,Droplet/Camel,Isolation,20,True,Contemporary,Epidemic,Minimal,7.192,21st Century,False,True
+West Africa Ebola,Ebola Virus,2014,2016,2,Guinea,Regional,1,1.4296500164409752e-05,11310,39.5,Contact,Supportive Care,53,True,Contemporary,Epidemic,Low,3.95,21st Century,False,True
+Zika Virus,Zika Virus,2015,2016,1,Brazil,Continental,3,0.0002499885028748678,2000,0.4,Vector/Sexual,Supportive Care,10,True,Contemporary,Epidemic,Low,0.12,21st Century,False,True
+COVID-19,SARS-CoV-2,2019,2023,4,China,Global,7,0.3499999925249999,7000000,1.0,Airborne/Droplet,Vaccine/Lockdown,13800,True,Contemporary,Pandemic,High,0.7,21st Century,False,True
+Monkeypox 2022,Monkeypox Virus,2022,2023,1,Multiple,Global,6,4.4988500517367756e-05,100,0.11,Contact,Vaccine,3,True,Contemporary,Epidemic,Minimal,0.066,21st Century,False,True
+Cholera Haiti,Vibrio cholerae,2010,2019,9,Haiti,Regional,1,0.0004099885047148678,9500,1.16,Waterborne,ORS,2,False,Contemporary,Epidemic,Low,0.1159999999999999,21st Century,False,False
+Yellow Fever Angola,Yellow Fever Virus,2015,2016,1,Angola,Regional,1,3.6555000420382502e-06,355,4.84,Vector,Vaccine,1,True,Contemporary,Outbreak,Minimal,0.484,21st Century,False,True
+Plague Madagascar,Yersinia pestis,2017,2017,1,Madagascar,Local,1,1.1625000133687501e-06,202,8.6,Airborne/Vector,Antibiotics,1,True,Contemporary,Outbreak,Minimal,0.86,21st Century,False,False
+Nipah Virus Kerala,Nipah Virus,2018,2023,5,India,Local,1,0.0,21,91.3,Contact/Bats,Isolation,1,True,Contemporary,Outbreak,Minimal,5.0,21st Century,False,True
+Marburg Germany,Marburg Virus,1967,1967,1,Germany,Local,1,4.000000046e-09,7,22.6,Contact,Isolation,1,True,Modern,Outbreak,Minimal,2.26,20th Century,False,True
+Typhoid Fever Pakistan,Salmonella Typhi,2016,2023,7,Pakistan,Regional,1,4.988500057367751e-06,100,1.0,Waterborne/Food,Antibiotics,3,True,Contemporary,Epidemic,Minimal,0.1,21st Century,False,False
+Measles DRC,Measles Virus,2019,2020,1,DRC,Regional,1,0.00015498850178236777,6000,1.94,Airborne,Vaccine,2,False,Contemporary,Epidemic,Low,0.194,21st Century,False,True
+Pertussis USA,Bordetella pertussis,2012,2013,1,USA,Regional,1,2.4127000277460503e-05,20,0.04,Airborne,Vaccine,1,True,Contemporary,Epidemic,Minimal,0.004,21st Century,False,False
+Meningitis Belt Africa,Neisseria meningitidis,2009,2010,1,Africa,Regional,1,4.4088000507012e-05,5352,6.07,Droplet,Vaccine,3,True,Contemporary,Epidemic,Low,0.607,21st Century,False,False
+Anthrax Siberia,Bacillus anthracis,2016,2016,1,Russia,Local,1,1.13850001309275e-06,1,0.04,Contact,Antibiotics,1,False,Contemporary,Outbreak,Minimal,0.004,21st Century,False,False
+Rocky Mountain Spotted Fever,Rickettsia rickettsii,1980,2023,43,USA,Regional,1,2.9885000343677505e-06,60,1.0,Vector,Antibiotics,2,True,Modern,Endemic,Minimal,0.1,20th Century,False,False
+Hantavirus,Hantavirus,1993,2023,30,USA,Regional,2,4.050000046575e-07,311,37.3,Contact,Supportive Care,2,True,Modern,Endemic,Minimal,7.459999999999999,20th Century,False,True
+Q Fever Netherlands,Coxiella burnetii,2007,2010,3,Netherlands,Regional,1,1.98850002286775e-06,74,1.85,Airborne,Antibiotics,1,True,Contemporary,Epidemic,Minimal,0.185,21st Century,False,False
